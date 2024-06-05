@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwarupamBarua
 - 👀 I’m interested in coding and watching sci-fi movies.
 - 🌱 I’m currently learning Python in Stanford Code in Place 2024 online platform.
-- 💞️ I’m looking to collaborate on Python experts.
+- 💞️ I’m looking to collaborate with Python experts.
 - 📫 How to reach me: swarupambarua98@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding and learning about Python. Although, I am a post-graduate student in Economics.
