@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SwarupamBarua
-- 👀 I’m interested in economics, data science, and climate finance.
-- 🌱 I’m currently learning SQL, Power BI, Python, and R language.
-- 💞️ I’m looking to collaborate with Data Scientists and Analysts.
-- 📫 How to reach me: swarupambarua98@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Realist.
+  "Without data, you're just another person with an opinion." 
+—— William Edwards Deming (the father of the total quality management movement)
 
 <!---
 SwarupamBarua/SwarupamBarua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
